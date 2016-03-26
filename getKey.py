@@ -1,0 +1,2 @@
+import keyHook
+keyHook.getKeys()
